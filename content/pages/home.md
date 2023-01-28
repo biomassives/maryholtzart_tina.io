@@ -1,9 +1,9 @@
 ---
-title: "Tina Cloud Starter"
+title: Mary Holtz Art
 blocks:
   - tagline: Life is good
     headline: Upcoming Shows
-    text: |+
+    text: |
       ### Florida Arts Tour - West Volusia County
 
       Saturday March 4 & Sunday March 5
@@ -12,13 +12,9 @@ blocks:
 
       ### The Guild of the Museum of Art - Deland, Florida&#x20;
 
-
       Saturday, March 18, 2023
 
-
-
       9 a.m. – 3 p.m
-
     actions:
       - label: Take a look at my latest work
         type: button
@@ -79,3 +75,4 @@ blocks:
       If you have other questions, please feel free to ask.
     _template: hero
 ---
+
