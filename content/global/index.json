@@ -33,6 +33,6 @@
   "theme": {
     "color": "purple",
     "font": "nunito",
-    "darkMode": "system"
+    "darkMode": "dark"
   }
 }
