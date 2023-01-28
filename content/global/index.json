@@ -9,6 +9,10 @@
     "color": "default",
     "nav": [
       {
+        "href": "home",
+        "label": "Arnie's Book"
+      },
+      {
         "href": "",
         "label": "Home"
       },
