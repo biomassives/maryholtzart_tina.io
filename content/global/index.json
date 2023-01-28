@@ -1,8 +1,8 @@
 {
   "header": {
     "icon": {
-      "name": "BiBadge",
-      "color": "green",
+      "name": "BiBookmarkHeart",
+      "color": "orange",
       "style": "float"
     },
     "name": "Mary Holtz",
