@@ -1,5 +1,5 @@
 ---
-title: Jewelry
+title: Artist Statement
 blocks:
   - body: >
       ![](/uploads/sunset-valleys.JPG "")
@@ -54,4 +54,5 @@ blocks:
       src: /uploads/IMG_9844.jpg
     _template: hero
 ---
+
 
