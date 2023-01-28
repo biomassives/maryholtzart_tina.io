@@ -9,16 +9,12 @@
     "color": "default",
     "nav": [
       {
-        "href": "/achey-breaky-back-book",
-        "label": "Arnie's Book"
-      },
-      {
-        "href": "",
-        "label": "Home"
-      },
-      {
         "href": "about",
         "label": "About"
+      },
+      {
+        "href": "/achey-breaky-back-book",
+        "label": "Arnie's Book"
       },
       {
         "href": "posts",
