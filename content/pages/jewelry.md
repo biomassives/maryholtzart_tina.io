@@ -49,9 +49,16 @@ blocks:
       \#5
 
 
+      ![]()
 
 
       ![](/uploads/jewelry_d3_6.webp "#6")
+
+
+      \#6
+
+
+      ![](/uploads/jewelry_7.webp "#7")
 
     color: primary
     _template: content
@@ -76,6 +83,7 @@ blocks:
       src: /uploads/IMG_9844.jpg
     _template: hero
 ---
+
 
 
 
