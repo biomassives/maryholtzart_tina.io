@@ -1,50 +1,81 @@
 ---
 title: "Tina Cloud Starter"
 blocks:
-  - headline: Welcome to the Tina Starter
-    text: >
-      This project is set up to show you the basics of working with Tina. You're
-      looking at the landing page, which pulls content from
-      content/pages/home.md, components from components/blocks, and puts them
-      all together in pages/\[filename].tsx, all based on a schema defined in
-      .tina/schema.ts.
+  - tagline: Life is good
+    headline: Upcoming Shows
+    text: |+
+      ### Florida Arts Tour - West Volusia County
+
+      Saturday March 4 & Sunday March 5
+
+      From 10 AM to 5 PM
+
+      ### The Guild of the Museum of Art - Deland, Florida&#x20;
+
+
+      Saturday, March 18, 2023
+
+
+
+      9 a.m. – 3 p.m
+
     actions:
-      - label: Get Started
+      - label: Take a look at my latest work
         type: button
         icon: true
         link: /posts
-      - label: Read Blog
-        type: link
-        icon: false
-        link: /posts
     image:
-      src: /uploads/unsplash-75EFpyXu3Wg.jpg
-      alt: Photo of palm trees at sunset by Adam Birkett - unsplash.com/photos/75EFpyXu3Wg
-    color: default
+      src: /uploads/morning-bouquet-w72.jpg
+      alt: >-
+        Creating art has healing power. I find peace, joy and happiness in
+        creating art. 
+    color: tint
     _template: hero
   - items:
       - icon:
+          name: BiCodeBlock
           color: red
           style: float
-          name: BiCodeBlock
-        title: Amazing Feature
+        title: Photography
         text: >-
           Aliquam blandit felis rhoncus, eleifend ipsum in, condimentum nibh.
           Praesent ac faucibus risus, eu lacinia enim.
       - icon:
+          name: BiLike
           color: primary
           style: float
-          name: BiLike
-        title: This Is a Feature
+        title: Meet Dr. Mary Holtz
         text: Vestibulum ante ipsum primis in faucibus orci luctus et ultrices.
       - icon:
+          name: BiPalette
           color: green
           style: float
-          name: BiPalette
-        title: Configurable Theme
-        text: >-
-          Edit global theme configuration with Tina. Change your theme's primary
-          color, font, or icon set.
-    color: tint
+        title: Exhibitions - Artists in the Garden
+        text: |-
+          The Guild of the Museum of Art - Deland, Florida *
+
+
+          Saturday, March 18, 2023
+
+          9 a.m. – 3 p.m. *
+    color: primary
     _template: features
+  - tagline: >-
+      If you are interested in purchasing artwork, please fill out the form &
+      include the following in the Message block:
+    headline: Contact
+    text: |
+      Originals:
+      Name of Piece
+      Your Shipping Address
+
+      Prints:
+      Size of Prints
+      Quantity
+      Your Shipping Address
+
+      I will reply with shipping details & cost.
+
+      If you have other questions, please feel free to ask.
+    _template: hero
 ---
