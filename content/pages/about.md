@@ -1,8 +1,8 @@
 ---
-title: "Art Statement"
+title: Jewelry
 blocks:
   - body: >
-      ![](/uploads/sunset-valleys.JPG)
+      ![](/uploads/sunset-valleys.JPG "")
 
 
       Art makes me happy and brings me extreme joy. I have drawn my whole life.
@@ -54,3 +54,4 @@ blocks:
       src: /uploads/IMG_9844.jpg
     _template: hero
 ---
+
