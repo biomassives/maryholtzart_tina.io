@@ -13,6 +13,11 @@ blocks:
 
       ![](/uploads/jewelry_1.webp "#1")
 
+
+
+
+      ![](/uploads/jewelry_2.webp "#2")
+
     color: primary
     _template: content
   - tagline: '"Art is the only way to run away without leaving home.” '
@@ -36,5 +41,6 @@ blocks:
       src: /uploads/IMG_9844.jpg
     _template: hero
 ---
+
 
 
