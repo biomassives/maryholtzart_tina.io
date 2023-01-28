@@ -17,6 +17,8 @@ blocks:
       \#1
 
 
+
+
       ![](/uploads/jewelry_2.webp "#2")
 
 
@@ -28,6 +30,12 @@ blocks:
       ![](/uploads/jewelry_3.webp)
 
 
+      \#3
+
+
+
+
+      ![](/uploads/jewelry_4.webp "#4")
 
 
 
@@ -58,6 +66,7 @@ blocks:
       src: /uploads/IMG_9844.jpg
     _template: hero
 ---
+
 
 
 
