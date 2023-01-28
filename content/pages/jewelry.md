@@ -1,7 +1,7 @@
 ---
 title: Jewelry
 blocks:
-  - body: >+
+  - body: >
       ## Jewelry
 
 
@@ -54,13 +54,13 @@ blocks:
       ![](/uploads/jewelry_d3_6.webp "#6")
 
 
-      \#6
+      \#Dichroic Wrap 6
 
 
-      ![](/uploads/jewelry_7.webp "#7")
+      ![](/uploads/jewelry_7.webp "#Dichroic Wrap 7")
 
 
-      \#7
+      \#Dichroic Wrap 7
 
 
 
@@ -68,7 +68,7 @@ blocks:
       ![](/uploads/jewelry_d3_1.webp "#3")
 
 
-      \#3-1
+      \#Dichroic Wrap 3-1
 
 
 
@@ -76,7 +76,7 @@ blocks:
       ![](/uploads/jewelry_d3_2.webp)
 
 
-      \#3-2
+      \#Dichroic Wrap 3-2
 
 
 
@@ -84,7 +84,7 @@ blocks:
       ![](/uploads/jewelry_d3_3.webp)
 
 
-      \#3-3
+      \#Dichroic Wrap 3-3
 
 
 
@@ -92,7 +92,7 @@ blocks:
       ![](/uploads/jewelry_d3_4.webp)
 
 
-      \#3-4
+      \#Dichroic Wrap 3-4
 
 
 
@@ -100,7 +100,7 @@ blocks:
       ![](/uploads/jewelry_d3_5.webp "#3-5")
 
 
-      \#3-5
+      \#Dichroic Wrap 3-5
 
 
 
@@ -108,16 +108,21 @@ blocks:
       ![](/uploads/jewelry_d3_6.webp "#3-6")
 
 
-      \#3-6
+      \#Dichroic Wrap 3-6
 
 
       ![](/uploads/jewelry_d3_7.webp)
 
 
-      \#3-7
+      \#Dichroic Wrap 3-7
 
 
 
+
+      ![](/uploads/jewelry_d3_8.webp)
+
+
+      \#Dichroic Wrap 3-8
     color: primary
     _template: content
   - tagline: '"Art is the only way to run away without leaving home.” '
@@ -141,6 +146,7 @@ blocks:
       src: /uploads/IMG_9844.jpg
     _template: hero
 ---
+
 
 
 
