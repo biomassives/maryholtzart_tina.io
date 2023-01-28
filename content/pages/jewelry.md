@@ -2,15 +2,14 @@
 title: Jewelry
 blocks:
   - body: >
-      ![](/uploads/sunset-valleys.JPG)
+      ## Jewelry
 
 
-      Jewelry
 
       After learning Alcohol Ink, something wonderful and magical happened! My
       psychic abilities awakened once again, empowering me to feel that cosmic
       conscious connection and spiritual energy.&#x20;
-    color: default
+    color: primary
     _template: content
   - tagline: '"Art is the only way to run away without leaving home.” '
     headline: ''
@@ -33,3 +32,4 @@ blocks:
       src: /uploads/IMG_9844.jpg
     _template: hero
 ---
+
