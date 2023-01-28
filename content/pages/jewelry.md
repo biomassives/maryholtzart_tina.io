@@ -14,7 +14,7 @@ blocks:
       ![](/uploads/jewelry_1.webp "#1")
 
 
-      \#1
+      \#Dichroic Wrap 1
 
 
 
@@ -22,7 +22,7 @@ blocks:
       ![](/uploads/jewelry_2.webp "#2")
 
 
-      \#2
+      \#Dichroic Wrap 2
 
 
 
@@ -30,7 +30,7 @@ blocks:
       ![](/uploads/jewelry_3.webp)
 
 
-      \#3
+      \#Dichroic Wrap 3
 
 
 
@@ -38,7 +38,7 @@ blocks:
       ![](/uploads/jewelry_4.webp "#4")
 
 
-      \#4
+      \#Dichroic Wrap 4
 
 
 
@@ -46,7 +46,9 @@ blocks:
       ![](/uploads/jewelry_5.webp "5")
 
 
-      \#5
+      \#Dichroic Wrap 5
+
+
 
 
       ![](/uploads/jewelry_d3_6.webp "#6")
@@ -87,8 +89,6 @@ blocks:
 
 
 
-
-
       ![](/uploads/jewelry_d3_4.webp)
 
 
@@ -106,6 +106,15 @@ blocks:
 
 
       ![](/uploads/jewelry_d3_6.webp "#3-6")
+
+
+      \#3-6
+
+
+      ![](/uploads/jewelry_d3_7.webp)
+
+
+      \#3-7
 
 
 
@@ -132,6 +141,7 @@ blocks:
       src: /uploads/IMG_9844.jpg
     _template: hero
 ---
+
 
 
 
