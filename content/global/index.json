@@ -1,8 +1,8 @@
 {
   "header": {
     "icon": {
-      "name": "BiBookmarkHeart",
-      "color": "orange",
+      "name": "BiDonateHeart",
+      "color": "teal",
       "style": "float"
     },
     "name": "Mary Holtz Art",
