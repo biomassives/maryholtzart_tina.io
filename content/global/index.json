@@ -1,11 +1,11 @@
 {
   "header": {
-    "name": "Tina Starter",
     "icon": {
-      "color": "orange",
-      "style": "float",
-      "name": "Tina"
+      "name": "BiBadge",
+      "color": "green",
+      "style": "float"
     },
+    "name": "Mary Holtz",
     "color": "default",
     "nav": [
       {
