@@ -33,9 +33,7 @@ blocks:
           color: teal
           style: float
         title: Photography
-        text: >-
-          Aliquam blandit felis rhoncus, eleifend ipsum in, condimentum nibh.
-          Praesent ac faucibus risus, eu lacinia enim.
+        text: Inspiration from nature
       - icon:
           name: BiLike
           color: primary
@@ -75,5 +73,6 @@ blocks:
       If you have other questions, please feel free to ask.
     _template: hero
 ---
+
 
 
