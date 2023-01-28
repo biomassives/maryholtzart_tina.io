@@ -29,8 +29,8 @@ blocks:
     _template: hero
   - items:
       - icon:
-          name: BiCodeBlock
-          color: red
+          name: BiAperture
+          color: teal
           style: float
         title: Photography
         text: >-
@@ -75,4 +75,5 @@ blocks:
       If you have other questions, please feel free to ask.
     _template: hero
 ---
+
 
