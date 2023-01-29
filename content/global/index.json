@@ -9,6 +9,10 @@
     "color": "default",
     "nav": [
       {
+        "href": "/#contact",
+        "label": "Contact"
+      },
+      {
         "href": "/about",
         "label": "Artist Statement"
       },
