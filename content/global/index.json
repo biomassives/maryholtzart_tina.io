@@ -9,7 +9,7 @@
     "color": "default",
     "nav": [
       {
-        "href": "about",
+        "href": "/about",
         "label": "About"
       },
       {
@@ -17,7 +17,7 @@
         "label": "Arnie's Book"
       },
       {
-        "href": "posts",
+        "href": "/posts",
         "label": "Thoughts"
       }
     ]
