@@ -1,6 +1,10 @@
 ---
 title: Achy Breaky Back Book
 blocks:
+  - quote: 'Professional athletes, Pilates instructors, Ballet troupes... '
+    author: Arnie Holtz
+    color: tint
+    _template: testimonial
   - body: >
       Discover how to treat your back pain from an experienced massage&#x20;
 
@@ -30,4 +34,5 @@ blocks:
     color: default
     _template: content
 ---
+
 
