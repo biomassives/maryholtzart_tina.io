@@ -31,10 +31,9 @@ blocks:
       events. You can find Mary on Facebook, Mary Holtz Art
     color: default
     _template: content
-  - tagline: '"Art is the only way to run away without leaving home.” '
+  - tagline: '"Art is the only way to run away without leaving home.”  -Twyla Tharp'
     headline: ''
-    text: |
-      Twyla Tharp
+    text: ''
     actions:
       - label: Jewelry
         type: button
@@ -47,11 +46,12 @@ blocks:
       - label: Photography
         type: button
         icon: false
-        link: /
+        link: photography
     image:
       src: /uploads/IMG_9844.jpg
     _template: hero
 ---
+
 
 
 
